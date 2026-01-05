@@ -1,4 +1,4 @@
-slop-to-nadella
-=============
+Slop to Nadella
+===============
 
-Chrome extension that replaces occurrences of 'slop' with 'nadella'. Based off the amazing `cloud-to-butt`!
+Chrome extension that replaces occurrences of 'Slop' with 'Nadella'. Based off the amazing [`cloud-to-butt`](https://github.com/panicsteve/cloud-to-butt)!
